@@ -1,0 +1,59 @@
+body{
+    background-image: url('bg.jpg');
+    color:white;
+    font-size:20px;
+}
+h1{
+    text-align:center;
+    color:#DAA520;
+    font-size:55px;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif 
+}
+dt{
+    text-align:center;
+    color:#DAA520;
+    font-size:22px;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif
+}
+dd{
+    text-align:center;
+    color:white;
+    font-size:22px;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+.b {
+    display: block;
+    color: white;
+    text-align: center;
+    padding-left:645px;
+   
+    text-decoration: none;
+    image-align:right-side;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    image-align:right-side;
+}
+
+li a:hover {
+    background-color: #111;
+}
+li a:active{
+    background-color: red;
+}

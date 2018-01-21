@@ -1,0 +1,29 @@
+<html>
+<head>
+
+<Title>About ME</Title>
+
+
+</head>
+
+<Body>
+
+<h1>MY EDUCATION:</h1>
+<dl>
+<dt>Master of Science in Computer Engineering, San Jose State University, Dec 2018</dt>
+<dd>Started pursuing my Master's Degree in Computer Engineering from San Jose State University,California, from January 2017.
+I have chosen to specialize in the field of Data Science and Machine Learning.
+The courses that I have taken/will take in this Degree are as follows:
+Object Oriented Programming & Data Structures in C++.
+Operations Systems Design.
+Computer Architecture.
+Mobile Application Development- Android & Apple iOS.
+My present GPA is 3.15 on a scale of 4.</dd>
+</dl>
+
+</Body>
+
+
+
+
+</html>
